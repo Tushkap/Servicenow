@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-21 11:03:28</sys_created_on>
+        <sys_id>a2ef5d279f5022107f4403778224abba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_sache_gobu_sachegobu_tracker.x_cdltd_sache_gobu.player</sys_name>
+        <sys_package display_value="Sache gobu tracker" source="x_cdltd_sache_gobu">cc7fd5639f5022107f4403778224ab7c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sache gobu tracker">cc7fd5639f5022107f4403778224ab7c</sys_scope>
+        <sys_security_acl display_value="x_cdltd_sache_gobu_sachegobu_tracker">e2ef91279f5022107f4403778224ab97</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a2ef5d279f5022107f4403778224abba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-21 11:03:28</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_sache_gobu.player" name="x_cdltd_sache_gobu.player">348f592f9f1022107f4403778224abfc</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

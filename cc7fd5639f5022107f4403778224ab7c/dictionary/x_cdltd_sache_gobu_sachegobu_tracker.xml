@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b1ef1d279f5022107f4403778224aba5" extends="task" label="Sachegobu tracker" max_length="40" name="x_cdltd_sache_gobu_sachegobu_tracker" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="nick name" max_length="40" name="nick_name" type="string"/>
+    </element>
+</database>
